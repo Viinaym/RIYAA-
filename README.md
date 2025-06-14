@@ -1,5 +1,5 @@
 # riyAA – My Personal AI Assistant  
-**(R.I.Y.A.A. – Robotic Intelligence and Yielded Artificial Assistance)**
+**(R.I.Y.A.A. – Robotic Intelligence and Yielding Artificial Assistance)**
 
 RIYAA is a project I’ve started to build my own AI assistant — like a small version of ChatGPT, but made by me.  
 It’s a computer-based assistant that can talk, reply, and maybe even do some smart tasks later.
